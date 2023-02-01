@@ -1,0 +1,18 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÇúÜüÿÿÿÿ
+C
+java:S16045"(Make this anonymous inner class a lambda(¾ÆÜôýÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Þ‰Œy
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ ÝÝùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄäìÖüÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(±¶éÒüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±¶éÒüÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¬¯áüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬¯áüÿÿÿÿ
+4
+java:S2119"Save and re-use this "Random".(–áÍÈ
+c	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛŠ‹“
+h	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÓÑüÿÿÿÿ
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯®Úö

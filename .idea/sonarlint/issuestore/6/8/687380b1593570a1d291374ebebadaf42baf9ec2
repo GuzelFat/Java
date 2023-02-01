@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¡±ö
+e
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(œ’ìÓ8Ï¤à0
+j
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(’Şùÿÿÿÿ8Ï¤à0
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ï¤à0
+>
+java:S1643"Use a StringBuilder instead.(ø‘‘îıÿÿÿÿ8Ï¤à0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8Ï¤à0

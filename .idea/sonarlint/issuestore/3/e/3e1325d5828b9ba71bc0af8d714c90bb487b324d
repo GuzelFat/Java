@@ -1,0 +1,50 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓŒµùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+P
+java:S1854>"5Remove this useless assignment to local variable "i".(Â†¿ şÿÿÿÿ
+S
+java:S1854;"=Remove this useless assignment to local variable "newString".(×¿Ï
+S
+java:S1854&"8Remove this useless assignment to local variable "strA".(Õƒ¸»üÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "rnd".(–áÍÈ
+Q
+java:S1854"6Remove this useless assignment to local variable "aI".(öš‰¦ùÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "c".(ˆ³«Ã
+P
+java:S1854"5Remove this useless assignment to local variable "d".(ÓãÛ«ÿÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "f".(©äÔàúÿÿÿÿ
+M	java:S106E"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+A
+java:S1481"&Remove this unused "i" local variable.(¦¤ÛÖúÿÿÿÿ
+<
+java:S1481	"&Remove this unused "l" local variable.(óºÂ»
+<
+java:S1481
+"&Remove this unused "b" local variable.(À ¿‰
+<
+java:S1481"&Remove this unused "s" local variable.(Şò°é
+A
+java:S1481"&Remove this unused "f" local variable.(©äÔàúÿÿÿÿ
+A
+java:S1481"&Remove this unused "d" local variable.(ÓãÛ«ÿÿÿÿÿ
+<
+java:S1481"&Remove this unused "c" local variable.(ˆ³«Ã
+B
+java:S1481"'Remove this unused "b1" local variable.(®ÔÁ‚ûÿÿÿÿ
+>
+java:S1481"(Remove this unused "rnd" local variable.(–áÍÈ
+D
+java:S1481&")Remove this unused "strA" local variable.(Õƒ¸»üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¶‚¿Íüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ûÜíÖÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ûÜíÖÿÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(³»é™
+Q	java:S125("<This block of commented-out lines of code should be removed.(×ò³è
+Q	java:S125,"<This block of commented-out lines of code should be removed.(¶Ô‰Ú
+Q	java:S1250"<This block of commented-out lines of code should be removed.(¼£ÍÉ
+P	java:S1256"<This block of commented-out lines of code should be removed.(ŞÕîq

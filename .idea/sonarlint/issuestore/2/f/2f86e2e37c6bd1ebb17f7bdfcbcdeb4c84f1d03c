@@ -1,0 +1,26 @@
+
+@
+java:S5411@"*Use the primitive boolean expression here.(×Û‘–
+Q	java:S125."<This block of commented-out lines of code should be removed.(½ÜŽé
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ó¼˜Òÿÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(û±Àµþÿÿÿÿ
+C
+java:S16042"(Make this anonymous inner class a lambda(“¨ÑÙùÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(œÏð–
+H
+java:S1481'"2Remove this unused "booleanGender" local variable.(ýÅ‰ª
+7
+java:S1643 "Use a StringBuilder instead.(úƒ¸Îýÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¡±ö8£îìœà0
+C
+java:S1125/"(Remove the literal "true" boolean value.(ÉÄ¶ôúÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(×Û‘–
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+`	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(Ø‚ÓÞ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(¹µþ‡ÿÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ïáÒê
+M	java:S106="9Replace this use of System.out or System.err by a logger.(ËÙ 3

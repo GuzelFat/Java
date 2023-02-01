@@ -1,0 +1,32 @@
+
+^
+java:S53613"HReplace this call to "replaceAll()" by a call to the "replace()" method.(µÛ¨¥
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(êµğâ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬Ø•‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ª×Óø
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(øŸ“©
+0
+java:S1220""Move this file to a named package.
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¬Ø•‹
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(±‰›ì
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(äò’–øÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Ïû’Óûÿÿÿÿ
+D
+java:S22013".The return value of "replaceAll" must be used.(µÛ¨¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±‰›ì
+f
+java:S1192,"KDefine a constant instead of duplicating this literal "Ñ€Ğ°Ğ²Ğ½Ğ¾" 4 times.(£Õ¢œùÿÿÿÿ
+c	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¤³ü
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(áØ¹ÿÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ª×Óø
+N	java:S106("9Replace this use of System.out or System.err by a logger.(â¨Üİ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(™ü†ÿøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äò’–øÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÆüÅîşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áØ¹ÿÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¦ÎÃØúÿÿÿÿ

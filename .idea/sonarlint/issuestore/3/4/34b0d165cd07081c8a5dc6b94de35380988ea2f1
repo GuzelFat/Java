@@ -1,0 +1,16 @@
+
+g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ıŸÌœà0
+K
+java:S1125<")Remove the literal "false" boolean value.(ş†ÖĞşÿÿÿÿ8ıŸÌœà0
+s
+java:S3457J"Q%n should be used in place of \n to produce the platform-specific line separator.(Ø²Ü‚üÿÿÿÿ8ıŸÌœà0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(™‰§ïıÿÿÿÿ8ıŸÌœà0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¡±ö
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(É©¥”8ıŸÌœà0
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(Ø²Ü‚üÿÿÿÿ8ıŸÌœà0
+n
+java:S34576"Q%n should be used in place of \n to produce the platform-specific line separator.(É©¥”8ıŸÌœà0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(äşÜ¤ÿÿÿÿÿ8ıŸÌœà0
+g	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ıŸÌœà0
+8
+java:S1643,"Use a StringBuilder instead.(şÀ¥F8ıŸÌœà0

@@ -1,0 +1,18 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÇúÜüÿÿÿÿ
+C
+java:S1604;"(Make this anonymous inner class a lambda(Üè¼Áûÿÿÿÿ
+C
+java:S1604C"(Make this anonymous inner class a lambda(Üè¼Áûÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "ints".(Ÿ”šÏ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(®ÉËÒ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(óí¡Şùÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(®ÉËÒ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(®ÉËÒ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(‹¾«Ïøÿÿÿÿ

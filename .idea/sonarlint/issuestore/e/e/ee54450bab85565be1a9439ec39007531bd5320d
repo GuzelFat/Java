@@ -1,0 +1,23 @@
+
+>
+java:S1481	"(Remove this unused "lst" local variable.(¶Øë
+Q	java:S125"<This block of commented-out lines of code should be removed.(ßıÑ
+V	java:S125#"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "max".(éñÖ†
+M
+java:S1854	"7Remove this useless assignment to local variable "lst".(¶Øë
+4
+java:S2119"Save and re-use this "Random".(–áÍÈ
+H
+java:S1144"2Remove this unused private "addRndTooList" method.(İƒö³
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÇúÜüÿÿÿÿ
+C
+java:S1481"(Remove this unused "min" local variable.(öûÎœıÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "min".(öûÎœıÿÿÿÿ
+>
+java:S1481"(Remove this unused "max" local variable.(éñÖ†
+J
+java:S1144"/Remove this unused private "sortedList" method.(ó¾Ô‚ÿÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(²Ù¡Åùÿÿÿÿ

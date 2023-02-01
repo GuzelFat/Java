@@ -1,0 +1,11 @@
+
+>
+java:S1643"Use a StringBuilder instead.(–€яыыяяяя8јђЫка0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ЄУјбюяяяя8јђЫка0
+T	java:S106>"9Replace this use of System.out or System.err by a logger.(ѓЪбB8јђЫка0
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ЎАІH
+s
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(бшҐЊяяяяя8јђЫка0
+9
+java:S1643"Use a StringBuilder instead.(јЮэа8јђЫка0
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(бшҐЊяяяяя8јђЫка0
